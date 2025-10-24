@@ -81,9 +81,9 @@ function create_pu()
 	}
 
     var origin = rChoice([
-                            "https://amzn.to/3tStUuF",
-                            "https://amzn.to/3F6eidC",
-                            "https://bit.ly/3UHyCqM",
+                            "https://s.shopee.co.id/3Az3L1WxlD",
+                            "https://s.shopee.co.id/7KocIlW87v",
+                            "https://s.shopee.co.id/7KocIlW87v",
                         ]);
 
         if(window.pu.type === 'popup'){
@@ -121,3 +121,4 @@ if(pu.rt_enable){
 else{
 	create_pu();
 }
+
